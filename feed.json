@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "GitHub Pages_DEMO",
     "description": "",
-    "home_page_url": "https://thelonewalker1104.github.io/blog_test",
-    "feed_url": "https://thelonewalker1104.github.io/blog_test/feed.json",
+    "home_page_url": "https://thelonewalker1104.github.io/blog",
+    "feed_url": "https://thelonewalker1104.github.io/blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "thelonewalker1104"
     },
     "items": [
         {
-            "id": "https://thelonewalker1104.github.io/blog_test/11351531.html",
-            "url": "https://thelonewalker1104.github.io/blog_test/11351531.html",
+            "id": "https://thelonewalker1104.github.io/blog/11351531.html",
+            "url": "https://thelonewalker1104.github.io/blog/11351531.html",
             "title": "11351531",
             "summary": "151515615",
             "content_html": "<p>151515615</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2020-06-13T09:38:54+08:00"
         },
         {
-            "id": "https://thelonewalker1104.github.io/blog_test/123123.html",
-            "url": "https://thelonewalker1104.github.io/blog_test/123123.html",
+            "id": "https://thelonewalker1104.github.io/blog/123123.html",
+            "url": "https://thelonewalker1104.github.io/blog/123123.html",
             "title": "123123",
             "summary": "3333333",
             "content_html": "<p>3333333</p>",

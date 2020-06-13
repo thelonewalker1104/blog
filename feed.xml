@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>GitHub Pages_DEMO</title>
-    <link href="https://thelonewalker1104.github.io/blog_test/feed.xml" rel="self" />
-    <link href="https://thelonewalker1104.github.io/blog_test" />
-    <updated>2020-06-13T14:11:19+08:00</updated>
+    <link href="https://thelonewalker1104.github.io/blog/feed.xml" rel="self" />
+    <link href="https://thelonewalker1104.github.io/blog" />
+    <updated>2020-06-13T14:14:45+08:00</updated>
     <author>
         <name>thelonewalker1104</name>
     </author>
-    <id>https://thelonewalker1104.github.io/blog_test</id>
+    <id>https://thelonewalker1104.github.io/blog</id>
 
     <entry>
         <title>11351531</title>
         <author>
             <name>thelonewalker1104</name>
         </author>
-        <link href="https://thelonewalker1104.github.io/blog_test/11351531.html"/>
-        <id>https://thelonewalker1104.github.io/blog_test/11351531.html</id>
+        <link href="https://thelonewalker1104.github.io/blog/11351531.html"/>
+        <id>https://thelonewalker1104.github.io/blog/11351531.html</id>
 
         <updated>2020-06-13T09:38:54+08:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>thelonewalker1104</name>
         </author>
-        <link href="https://thelonewalker1104.github.io/blog_test/123123.html"/>
-        <id>https://thelonewalker1104.github.io/blog_test/123123.html</id>
+        <link href="https://thelonewalker1104.github.io/blog/123123.html"/>
+        <id>https://thelonewalker1104.github.io/blog/123123.html</id>
 
         <updated>2020-06-13T09:36:21+08:00</updated>
             <summary>
